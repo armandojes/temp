@@ -13,14 +13,13 @@ window.OpenPay.setSandboxMode(true) // true || false
 
 // firebase config
 export const firebase = {
-  apiKey: 'AIzaSyDGmuP3Cp8D3LgMAr89IcZBfq4y1g9fzj4',
-  authDomain: 'somos-marketplace.firebaseapp.com',
-  databaseURL: 'https://somos-marketplace.firebaseio.com',
-  projectId: 'somos-marketplace',
-  storageBucket: 'somos-marketplace.appspot.com',
-  messagingSenderId: '404758906021',
-  appId: '1:404758906021:web:b405f16b3359f1d881b94c',
-  measurementId: 'G-PV24KTN13F'
+  apiKey: 'AIzaSyB5NE-gnOYqS3BE885V330SqBu8noYcuLI',
+  authDomain: 'newproject-6cda3.firebaseapp.com',
+  databaseURL: 'https://newproject-6cda3.firebaseio.com',
+  projectId: 'newproject-6cda3',
+  storageBucket: 'newproject-6cda3.appspot.com',
+  messagingSenderId: '447475577047',
+  appId: '1:447475577047:web:03b70e7d03c3d473d48092'
 }
 
 export const apiBaseUrl = 'https://us-central1-somos-marketplace.cloudfunctions.net'
